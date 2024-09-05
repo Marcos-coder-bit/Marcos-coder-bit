@@ -1,0 +1,3 @@
+- 👋 Oi, Eu sou @Marcos-coder-bit;
+- 👀 Eu estou interessado em passar conhecimento e melhorar minhas habilidades;
+- 🌱 estou atualmente aprendendo de tudo um pouco na programação;
